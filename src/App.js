@@ -8,7 +8,7 @@ import FriendPage from './FriendPage/index.js'
 import HeaderMainPage from './components/HeaderMainPage'
 import ResetPassword from './components/ResetPassword'
 // import {PlayCircleOutlined} from '@ant-design/icons'
-import { BrowserRouter , Routes , Route , useNavigate} from 'react-router-dom'
+import { HashRouter , Routes , Route , useNavigate} from 'react-router-dom'
 import AppProvider from './context/AppProvider';
 import AuthProvider from './context/AuthProvider';
 import Notimodal from './components/Notimodal'
@@ -20,7 +20,7 @@ function App() {
 
   return (
     
-      <BrowserRouter>
+      <HashRouter>
       
       <AuthProvider>
       <AppProvider>
@@ -40,7 +40,7 @@ function App() {
       </AuthProvider>
      
    
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 

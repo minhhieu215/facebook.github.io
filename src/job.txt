@@ -1,8 +1,2 @@
-Status gồm : 
-1.Avatar
-2.Tên người đăng
-3.Thời gian người đăng
-4.Bài viết
-5.Hình ảnh
-6.Khung thả cảm xúc 
-7.Comments  
+Tool tip trong tin nhắn 
+spin khi load tin nhắn 

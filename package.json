@@ -2,7 +2,7 @@
   "name": "demoantd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://minhhieu215.github.io/facebookApp/",
+  "homepage": "https://github.com/minhhieu215/facebook.github.io/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.2",

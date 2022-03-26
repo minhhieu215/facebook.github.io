@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/facebookApp/static/css/main.79810312.css",
-    "main.js": "/facebookApp/static/js/main.65d5e608.js",
-    "static/js/787.9f986d78.chunk.js": "/facebookApp/static/js/787.9f986d78.chunk.js",
-    "static/media/274183805_451411889997887__n.jpg": "/facebookApp/static/media/274183805_451411889997887_1451058573274440552_n.b4008524ffd5652edcaf.jpg",
-    "index.html": "/facebookApp/index.html",
-    "main.79810312.css.map": "/facebookApp/static/css/main.79810312.css.map",
-    "main.65d5e608.js.map": "/facebookApp/static/js/main.65d5e608.js.map",
-    "787.9f986d78.chunk.js.map": "/facebookApp/static/js/787.9f986d78.chunk.js.map"
+    "main.css": "/minhhieu215/facebook.github.io/static/css/main.79810312.css",
+    "main.js": "/minhhieu215/facebook.github.io/static/js/main.51ca6f06.js",
+    "static/js/787.9f986d78.chunk.js": "/minhhieu215/facebook.github.io/static/js/787.9f986d78.chunk.js",
+    "static/media/274183805_451411889997887__n.jpg": "/minhhieu215/facebook.github.io/static/media/274183805_451411889997887_1451058573274440552_n.b4008524ffd5652edcaf.jpg",
+    "index.html": "/minhhieu215/facebook.github.io/index.html",
+    "main.79810312.css.map": "/minhhieu215/facebook.github.io/static/css/main.79810312.css.map",
+    "main.51ca6f06.js.map": "/minhhieu215/facebook.github.io/static/js/main.51ca6f06.js.map",
+    "787.9f986d78.chunk.js.map": "/minhhieu215/facebook.github.io/static/js/787.9f986d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79810312.css",
-    "static/js/main.65d5e608.js"
+    "static/js/main.51ca6f06.js"
   ]
 }
